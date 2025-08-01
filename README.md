@@ -6,7 +6,7 @@ This Streamlit-based app uses Google Gemini (via `google-generativeai`) to autom
 - 📊 CSV and JSON export of structured results
 - 📂 Local `.env` or deployment `secrets.toml` support
 - ⚡️ Gemini 2.0 Flash-Lite for fast and accurate output
-- ✅ No vector DBs, only OCR + structured parsing
+- ✅ OCR + structured parsing
 
 ---
 
