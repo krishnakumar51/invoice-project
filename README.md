@@ -27,13 +27,13 @@ This Streamlit-based app uses Google Gemini (via `google-generativeai`) to autom
 
 ```bash
 git clone https://github.com/your-username/invoice-project.git
-cd invoice-extractor-gemini
+cd invoice-project
 ````
 
 ### 2. Install Dependencies
 
 ```bash
-pip install -e .
+pip install -r requirements.txt .
 ```
 
 ### 3. Create `.env`
@@ -69,7 +69,7 @@ streamlit run app.py
 ├── table/                  # Final CSV output
 ├── invoices/               # Sample pdf for invoice generation   
 ├── .env                    # Local environment variables
-├── .streamlit/secrets.toml# Streamlit deployment secrets (optional)
+├── .streamlit/secrets.toml # Streamlit deployment secrets (optional)
 ├── pyproject.toml          # Package definition
 └── README.md
 ```
