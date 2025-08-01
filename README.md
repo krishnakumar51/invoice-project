@@ -1,11 +1,4 @@
-Here’s a complete and deployment-ready setup:
-
----
-
-## ✅ 1. `README.md`
-
-````markdown
-# 🧾 Gemini Invoice Extractor
+# 🧾 Invoice Extractor
 
 This Streamlit-based app uses Google Gemini (via `google-generativeai`) to automatically extract structured data from scanned or digital invoice PDFs. It supports:
 
