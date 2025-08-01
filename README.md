@@ -10,6 +10,10 @@ This Streamlit-based app uses Google Gemini (via `google-generativeai`) to autom
 
 ---
 
+
+👉 **[🌐 Open the Live App](https://invoice-data-extraction.streamlit.app/)**  
+__(Streamlit-app)__
+
 ## 📸 Sample Output
 
 | File                       | Invoice No | Date       | Billed To     | Total   |
