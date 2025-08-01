@@ -109,10 +109,4 @@ Uses LangChain's `StructuredOutputParser` for schema validation.
 * `gemini-2.0-flash-lite`
 * Inference via `google-generativeai` Python SDK
 
----
 
-## 📃 License
-
-MIT – Free to use, fork, or extend.
-
-````
