@@ -1,0 +1,6 @@
+file,invoice_no,date,billed_to,address,subtotal,discount,shipping,total,notes,terms,line_items
+invoice_Aaron Bergman_36259.pdf,36259,2012-03-06,Aaron Bergman,"98103, Seattle, Washington, United States",53.82,,4.29,58.11,Thanks for your business!,Order ID : CA-2012-AB10015140-40974,"""[{\""description\"": \""Newell 330 Art, Office Supplies, OFF-AR-5309\"", \""quantity\"": \""3\"", \""unit_price\"": \""17.94\"", \""amount\"": \""53.82\""}]"""
+invoice_Aaron Bergman_39519.pdf,39519,2012-02-19,Aaron Bergman,"76017, Arlington, Texas, United States",25.25,5.05,1.97,22.17,Thanks for your business!,Order ID : CA-2012-AB10015140-40958,"""Akro Stacking Bins:2:12.62:25.25"""
+invoice_Aaron Hawkins_6817.pdf,6817,2012-10-23,Aaron Hawkins,"Villa Canales,
+Guatemala,
+Guatemala","$10,604.00",,$68.30,"$10,672.30",Thanks for your business!,Order ID : MX-2012-AH1003051-41205,"""Samsung Smart Phone, VoIP,5,$2,120.80,$10,604.00,Phones, Technology, TEC-PH-5841"""

@@ -1,0 +1,13 @@
+{
+  "invoice_no": "6817",
+  "date": "2012-10-23",
+  "billed_to": "Aaron Hawkins",
+  "address": "Villa Canales,\nGuatemala,\nGuatemala",
+  "line_items": "Samsung Smart Phone, VoIP,5,$2,120.80,$10,604.00,Phones, Technology, TEC-PH-5841",
+  "subtotal": "$10,604.00",
+  "discount": null,
+  "shipping": "$68.30",
+  "total": "$10,672.30",
+  "notes": "Thanks for your business!",
+  "terms": "Order ID : MX-2012-AH1003051-41205"
+}
